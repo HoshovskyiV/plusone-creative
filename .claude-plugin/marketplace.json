@@ -1,0 +1,25 @@
+{
+  "name": "plusone-creative",
+  "description": "Single-plugin marketplace hosting the plusone-creative plugin — autonomous Instagram creative generation via Figma + Higgsfield MCP for Plusone designers.",
+  "owner": {
+    "name": "Plusone",
+    "email": "goshovskyj.v.i@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "plusone-creative",
+      "source": "./",
+      "description": "Autonomous Instagram creative generation via Figma + Higgsfield MCP",
+      "version": "0.1.0",
+      "author": {
+        "name": "Plusone"
+      },
+      "keywords": [
+        "figma",
+        "higgsfield",
+        "instagram",
+        "creative"
+      ]
+    }
+  ]
+}

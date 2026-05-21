@@ -1,0 +1,21 @@
+{
+  "name": "plusone-creative",
+  "displayName": "Plusone Creative",
+  "version": "0.1.0",
+  "description": "Autonomous Instagram creative generation: extracts style from a Figma project, generates doodles and photos via Higgsfield, composes frames in Figma. For Plusone Cowork designers.",
+  "author": {
+    "name": "Plusone",
+    "email": "goshovskyj.v.i@gmail.com"
+  },
+  "homepage": "https://github.com/HoshovskyiV/plusone-creative",
+  "repository": "https://github.com/HoshovskyiV/plusone-creative",
+  "license": "MIT",
+  "keywords": [
+    "figma",
+    "higgsfield",
+    "instagram",
+    "creative",
+    "design-automation",
+    "plusone"
+  ]
+}
